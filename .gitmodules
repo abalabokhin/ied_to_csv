@@ -1,0 +1,3 @@
+[submodule "lapdu-parser"]
+	path = lapdu-parser
+	url = https://gitlab.com/lapdu/lapdu-parser.git
